@@ -6,7 +6,7 @@
   __________________________________________________________________________________________________________________________________________________________
   
 ### 📚 Writing
-- Besides my day job I also run an Open Source Learning site as well as a youtube.com channel.
+- Besides my day job I also run an Open Source Learning site as well as a [youtube.com](https://www.youtube.com/@cesco345) channel.
 
  ____________________________________________________________________________________________________________________________________________________________
  ### 🛠️ Technologies & Tools
