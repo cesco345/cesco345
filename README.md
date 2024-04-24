@@ -10,4 +10,4 @@
 
  ____________________________________________________________________________________________________________________________________________________________
  ### 🛠️ Technologies & Tools
-Python - React Native - Java - Imaging Applications - React - C/C++ - Node
+Python  -  React Native  -  Java  -  Imaging Applications  -  React  -  C/C++  -  Node
