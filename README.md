@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub Profile
 
-## Francesco Piscani
+# Francesco Piscani
 
 **Field Applications Scientist at Olympus**  
 Work with CCD, CMOS cameras and sensors for Life Science & Semiconductor applications. Volunteer at Open Source site.
