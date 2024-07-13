@@ -10,14 +10,6 @@ Work with CCD, CMOS cameras and sensors for Life Science & Semiconductor applica
 
 ---
 
-## Achievements
-
-- Achievement: Pull Shark
-- Achievement: Arctic Code Vault Contributor
-- Achievement: Starstruck
-
----
-
 ## Organizations
 
 - [StemApk](https://github.com/StemApk)
